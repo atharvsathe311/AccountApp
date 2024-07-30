@@ -1,0 +1,17 @@
+C:\Users\atharv.sathe\source\repos\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\atharv.sathe\source\repos\BankApp\bin\Debug\BankApp.exe
+C:\Users\atharv.sathe\source\repos\BankApp\bin\Debug\BankApp.pdb
+C:\Users\atharv.sathe\source\repos\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\atharv.sathe\source\repos\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\BankApp\obj\Debug\BankApp.exe
+C:\Users\atharv.sathe\source\repos\BankApp\obj\Debug\BankApp.pdb
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\bin\Debug\BankApp.exe.config
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\bin\Debug\BankApp.exe
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\bin\Debug\BankApp.pdb
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\obj\Debug\BankApp.csproj.Up2Date
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\obj\Debug\BankApp.exe
+C:\Users\atharv.sathe\source\repos\BankApp - Copy\obj\Debug\BankApp.pdb
